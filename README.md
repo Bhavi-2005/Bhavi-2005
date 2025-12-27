@@ -1,4 +1,4 @@
-# Bhavi
+# Bhavishya Priyadarshini V
 
 Web Developer | JavaScript, TypeScript | Open-Source Contributor (Preparing for GSoC 2026)
 
